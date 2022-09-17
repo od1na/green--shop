@@ -1,0 +1,49 @@
+.div{
+    width: 1440px;
+    display: flex;
+    margin: 0 auto;
+
+}
+.ikkinchidiv{
+    width: 40%;
+    border: 1px solid rgba(128, 128, 128, 0.941);
+
+}
+.birinchidiv{
+width: 60%;
+
+}
+.h2{
+    margin: 35px 70px 10px 70px;
+}
+hr{
+    width: 450px;
+}
+h4{
+    margin: 10px 70px 10px 70px;
+    font-size: 12px;
+}
+.inputlar{
+    display: flex;
+    width: 30vw;
+    height: 8vh;
+}
+input{
+    margin: 10px 70px 10px 70px;
+    width: 20vw;
+    /* height: 40px; */
+    border: 2px solid green;
+}
+.inputs{
+    border: 2px solid green;
+    margin-top: 1px;
+    width: 12vw; 
+    height: 7vh;
+}
+.button{
+border: 2px solid green;
+margin-left: -70px;
+width: 12vw;
+background-color: green;
+cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.first{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    /* width: 60%; */
+    border: 1px solid rgba(128, 128, 128, 0.963);
+    padding: 0px 10px;
+    /* margin: 49vw; */
+}
+
